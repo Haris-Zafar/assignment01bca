@@ -1,5 +1,3 @@
-// assignment01bca/blockchain.go
-
 package assignment01bca
 
 import (
